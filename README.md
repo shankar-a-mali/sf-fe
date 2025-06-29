@@ -1,5 +1,11 @@
 # React + TypeScript + Vite
 
+Generate a Component.
+Use the npx command to run Generate React CLI and create a new component.
+npx generate-react-cli component YourComponentName
+Note: Replace YourComponentName with the desired name of your component (e.g., Button, Header, ProductCard).
+Please run the command in coponent folder location e.g cd /sf-fe/src/components/CoponentFolderName/ComponentName
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
